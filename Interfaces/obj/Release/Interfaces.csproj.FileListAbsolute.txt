@@ -1,0 +1,9 @@
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\bin\Release\Interfaces.dll
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\bin\Release\Interfaces.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\bin\Release\CORE.dll
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\bin\Release\CORE.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\obj\Release\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\obj\Release\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\obj\Release\Interfaces.csproj.CopyComplete
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\obj\Release\Interfaces.dll
+C:\Users\M\source\repos\ProjectTireCatalog\Interfaces\obj\Release\Interfaces.pdb

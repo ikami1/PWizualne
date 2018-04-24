@@ -1,0 +1,11 @@
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\obj\Release\BLC.csprojResolveAssemblyReference.cache
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\obj\Release\BLC.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\BLC.dll
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\BLC.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\Interfaces.dll
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\CORE.dll
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\Interfaces.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Release\CORE.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\obj\Release\BLC.csproj.CopyComplete
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\obj\Release\BLC.dll
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\obj\Release\BLC.pdb

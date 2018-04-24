@@ -1,0 +1,14 @@
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Release\ProjectTireCatalog.csprojResolveAssemblyReference.cache
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Release\ProjectTireCatalog.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\ProjectTireCatalog.exe.config
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\ProjectTireCatalog.exe
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\ProjectTireCatalog.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\BLC.dll
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\Interfaces.dll
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\CORE.dll
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\BLC.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\Interfaces.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Release\CORE.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Release\ProjectTireCatalog.csproj.CopyComplete
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Release\ProjectTireCatalog.exe
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Release\ProjectTireCatalog.pdb

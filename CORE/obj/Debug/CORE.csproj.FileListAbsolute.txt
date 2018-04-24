@@ -1,0 +1,6 @@
+c:\users\m\source\repos\ProjectTireCatalog\CORE\bin\Debug\CORE.dll
+c:\users\m\source\repos\ProjectTireCatalog\CORE\bin\Debug\CORE.pdb
+c:\users\m\source\repos\ProjectTireCatalog\CORE\obj\Debug\CORE.csprojResolveAssemblyReference.cache
+c:\users\m\source\repos\ProjectTireCatalog\CORE\obj\Debug\CORE.csproj.CoreCompileInputs.cache
+c:\users\m\source\repos\ProjectTireCatalog\CORE\obj\Debug\CORE.dll
+c:\users\m\source\repos\ProjectTireCatalog\CORE\obj\Debug\CORE.pdb

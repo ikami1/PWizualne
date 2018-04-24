@@ -1,0 +1,17 @@
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\ProjectTireCatalog.exe.config
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\ProjectTireCatalog.exe
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\ProjectTireCatalog.pdb
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\BLC.dll
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\Interfaces.dll
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\DAOMock.dll
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\CORE.dll
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\BLC.pdb
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\Interfaces.pdb
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\DAOMock.pdb
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\CORE.pdb
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Debug\ProjectTireCatalog.csprojResolveAssemblyReference.cache
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Debug\ProjectTireCatalog.csproj.CoreCompileInputs.cache
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Debug\ProjectTireCatalog.csproj.CopyComplete
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Debug\ProjectTireCatalog.exe
+c:\users\m\source\repos\ProjectTireCatalog\ProjectTireCatalog\obj\Debug\ProjectTireCatalog.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\ProjectTireCatalog\bin\Debug\BLC.dll.config

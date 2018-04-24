@@ -1,0 +1,14 @@
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\BLC.dll
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\BLC.pdb
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\DAOMock.dll
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\Interfaces.dll
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\CORE.dll
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\DAOMock.pdb
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\Interfaces.pdb
+c:\users\m\source\repos\ProjectTireCatalog\BLC\bin\Debug\CORE.pdb
+c:\users\m\source\repos\ProjectTireCatalog\BLC\obj\Debug\BLC.csprojResolveAssemblyReference.cache
+c:\users\m\source\repos\ProjectTireCatalog\BLC\obj\Debug\BLC.csproj.CoreCompileInputs.cache
+c:\users\m\source\repos\ProjectTireCatalog\BLC\obj\Debug\BLC.csproj.CopyComplete
+c:\users\m\source\repos\ProjectTireCatalog\BLC\obj\Debug\BLC.dll
+c:\users\m\source\repos\ProjectTireCatalog\BLC\obj\Debug\BLC.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\BLC\bin\Debug\BLC.dll.config

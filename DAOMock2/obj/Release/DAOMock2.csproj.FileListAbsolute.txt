@@ -1,0 +1,11 @@
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\DAOMock2.dll
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\DAOMock2.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\CORE.dll
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\Interfaces.dll
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\CORE.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\bin\Release\Interfaces.pdb
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\obj\Release\DAOMock2.csprojResolveAssemblyReference.cache
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\obj\Release\DAOMock2.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\obj\Release\DAOMock2.csproj.CopyComplete
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\obj\Release\DAOMock2.dll
+C:\Users\M\source\repos\ProjectTireCatalog\DAOMock2\obj\Release\DAOMock2.pdb
