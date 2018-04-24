@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Gałązkiewicz.ProjectTireCatalog.Core;
-using Gałązkiewicz.ProjectTireCatalog.Interfaces;
+using Galazkiewicz.ProjectTireCatalog.Core;
+using Galazkiewicz.ProjectTireCatalog.Interfaces;
 
-namespace Gałązkiewicz.ProjectTireCatalog.DAOMock.BO
+namespace Galazkiewicz.ProjectTireCatalog.DAOMock.BO
 {
     public class Tire : ITire
     {

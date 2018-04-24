@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Gałązkiewicz.ProjectTireCatalog.Interfaces;
+using Galazkiewicz.ProjectTireCatalog.Interfaces;
 using System.Reflection;
 using System.IO;
 
-namespace Gałązkiewicz.ProjectTireCatalog.BLC
+namespace Galazkiewicz.ProjectTireCatalog.BLC
 {
     public class DataProvider
     {
@@ -21,12 +21,12 @@ namespace Gałązkiewicz.ProjectTireCatalog.BLC
             get { return DAO.GetAllProducers(); }
         }
 
-        public DataProvider(string nazwa_bazy)
+        public DataProvider(string nazwaBazy)
         {
-            var dllFile = new FileInfo(@"..\..\..\" + nazwa_bazy + @"\bin\Release\" + nazwa_bazy + ".dll");
+            var dllFile = new FileInfo(@"..\..\..\" + nazwaBazy + @"\bin\Release\" + nazwaBazy + ".dll");
             Assembly baza = Assembly.LoadFile(dllFile.FullName);
 
-            Type bazaType = baza.GetType("Gałązkiewicz.ProjectTireCatalog." + nazwa_bazy + ".DAO");
+            Type bazaType = baza.GetType("Galazkiewicz.ProjectTireCatalog." + nazwaBazy + ".DAO");
             ConstructorInfo bazaConstructor = bazaType.GetConstructor(new Type[] { });
 
             DAO = (IDAO) bazaConstructor.Invoke(new object[] { });

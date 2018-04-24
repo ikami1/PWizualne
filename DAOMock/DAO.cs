@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Gałązkiewicz.ProjectTireCatalog.Interfaces;
+using Galazkiewicz.ProjectTireCatalog.Interfaces;
 
-namespace Gałązkiewicz.ProjectTireCatalog.DAOMock
+namespace Galazkiewicz.ProjectTireCatalog.DAOMock
 {
     public class DAO : IDAO
     {

@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Gałązkiewicz.ProjectTireCatalog.Core;
+using Galazkiewicz.ProjectTireCatalog.Core;
 
-namespace Gałązkiewicz.ProjectTireCatalog.Interfaces
+namespace Galazkiewicz.ProjectTireCatalog.Interfaces
 {
     public interface ITire
     {

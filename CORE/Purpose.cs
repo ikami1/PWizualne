@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Gałązkiewicz.ProjectTireCatalog.Core
+namespace Galazkiewicz.ProjectTireCatalog.Core
 {
     public enum Purpose { XC, MTB }
 }

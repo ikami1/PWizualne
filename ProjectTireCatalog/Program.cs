@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ProjectTireCatalog.Properties;
 
-namespace Gałązkiewicz.ProjectTireCatalog
+namespace Galazkiewicz.ProjectTireCatalog
 {
     public class Program
     {
