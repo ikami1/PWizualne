@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "CORE\Core.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAOMock2", "DAOMock2\DAOMock2.csproj", "{8622D1FA-6C20-4CFB-AF60-326BD367434A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF", "WPF\WPF.csproj", "{25DD2FA0-9FDF-4FE7-B590-DA5DD827531A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8622D1FA-6C20-4CFB-AF60-326BD367434A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8622D1FA-6C20-4CFB-AF60-326BD367434A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8622D1FA-6C20-4CFB-AF60-326BD367434A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25DD2FA0-9FDF-4FE7-B590-DA5DD827531A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25DD2FA0-9FDF-4FE7-B590-DA5DD827531A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25DD2FA0-9FDF-4FE7-B590-DA5DD827531A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25DD2FA0-9FDF-4FE7-B590-DA5DD827531A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

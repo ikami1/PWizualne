@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ProjectTireCatalog.Properties;
 
 namespace Galazkiewicz.ProjectTireCatalog
 {
@@ -11,7 +10,7 @@ namespace Galazkiewicz.ProjectTireCatalog
     {
         public static void Main(string[] args)
         {
-            BLC.DataProvider dataProvider = new BLC.DataProvider(Settings.Default.baza);
+            BLC.DataProvider dataProvider = new BLC.DataProvider(Properties.Settings.Default.baza);
 
             foreach ( var producer in dataProvider.Producers)
             {
