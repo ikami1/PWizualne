@@ -31,5 +31,35 @@ namespace Galazkiewicz.ProjectTireCatalog.BLC
 
             DAO = (IDAO) bazaConstructor.Invoke(new object[] { });
         }
+
+        public ITire AddNewTire()
+        {
+            return DAO.AddNewTire();
+        }
+
+        public void SaveTire(ITire tire)
+        {
+            DAO.SaveTire(tire);
+        }
+
+        public void SaveTire(ITire tire, int index)
+        {
+            DAO.SaveTire(tire, index);
+        }
+
+        public IProducer AddProducer()
+        {
+            return DAO.AddNewProducer();
+        }
+
+        public void SaveProducer(IProducer producer)
+        {
+            DAO.SaveProducer(producer);
+        }
+
+        public void SaveProducer(IProducer producer, int index)
+        {
+            DAO.SaveProducer(producer, index);
+        }
     }
 }

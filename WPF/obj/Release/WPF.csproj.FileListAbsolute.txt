@@ -25,3 +25,4 @@ C:\Users\M\source\repos\ProjectTireCatalog\WPF\bin\Release\ProjectTireCatalog.ex
 C:\Users\M\source\repos\ProjectTireCatalog\WPF\obj\Release\ProducersWindow.g.cs
 C:\Users\M\source\repos\ProjectTireCatalog\WPF\obj\Release\ProducersWindow.baml
 C:\Users\M\source\repos\ProjectTireCatalog\WPF\obj\Release\Galazkiewicz.ProjectTireCatalog.Properties.Resources.resources
+C:\Users\M\source\repos\ProjectTireCatalog\WPF\obj\Release\GeneratedInternalTypeHelper.g.cs

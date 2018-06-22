@@ -1,6 +1,5 @@
 C:\Users\M\source\repos\ProjectTireCatalog\CORE\bin\Release\CORE.dll
 C:\Users\M\source\repos\ProjectTireCatalog\CORE\bin\Release\CORE.pdb
-C:\Users\M\source\repos\ProjectTireCatalog\CORE\obj\Release\Core.csprojResolveAssemblyReference.cache
 C:\Users\M\source\repos\ProjectTireCatalog\CORE\obj\Release\Core.csproj.CoreCompileInputs.cache
 C:\Users\M\source\repos\ProjectTireCatalog\CORE\obj\Release\CORE.dll
 C:\Users\M\source\repos\ProjectTireCatalog\CORE\obj\Release\CORE.pdb

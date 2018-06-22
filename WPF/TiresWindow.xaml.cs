@@ -18,14 +18,9 @@ namespace Galazkiewicz.ProjectTireCatalog.WPF
 {
     public partial class TiresWindow : Window
     {
-        public List<ITire> Tires { get; set; }
 
         public TiresWindow()
         {
-            BLC.DataProvider dataProvider = new BLC.DataProvider("DAOMock");
-
-            Tires = new List<ITire>(dataProvider.Tires);
-
             InitializeComponent();
         }
     }

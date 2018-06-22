@@ -10,5 +10,11 @@ namespace Galazkiewicz.ProjectTireCatalog.Interfaces
     {
         IEnumerable<ITire> GetAllTires();
         IEnumerable<IProducer> GetAllProducers();
+        ITire AddNewTire();
+        void SaveTire(ITire tire);
+        void SaveTire(ITire tire, int index);
+        IProducer AddNewProducer();
+        void SaveProducer(IProducer producer);
+        void SaveProducer(IProducer producer, int index);
     }
 }

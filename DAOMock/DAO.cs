@@ -40,5 +40,37 @@ namespace Galazkiewicz.ProjectTireCatalog.DAOMock
         {
             return _tires;
         }
+
+        public void SaveTire(ITire tire)
+        {
+            _tires.Add(tire);
+        }
+
+        public void SaveTire(ITire tire, int index)
+        {
+            _tires[index] = tire;
+        }
+
+        public ITire AddNewTire()
+        {
+            return new BO.Tire { Producer = _producers[0], Model = "", Waga = -1, PurposeType = Core.Purpose.MTB };
+        }
+
+        public void SaveProducer(IProducer producer)
+        {
+            _producers.Add(producer);
+        }
+
+        public void SaveProducer(IProducer producer, int index)
+        {
+            _producers[index] = producer;
+        }
+
+        public IProducer AddNewProducer()
+        {
+            IProducer producer = new BO.Producer();
+            producer.Name = "";
+            return producer;
+        }
     }
 }
